@@ -10,12 +10,12 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-[x] Users are able to see a customized app icon and launch screen
-[x] Your app should work for any screen size and orientation using AutoLayout constraints
-    [x] 
-[x] Users are able to see at least 3 context items
-[x] Users are able to tap into each context item and see detail view
-[x] Detail view contains information about each item (title, description, picture if applicable, etc.)
+- [x] Users are able to see a customized app icon and launch screen
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
+    - [x] 
+- [x] Users are able to see at least 3 context items
+- [x] Users are able to tap into each context item and see detail view
+- [x] Detail view contains information about each item (title, description, picture if applicable, etc.)
  
 The following **optional** features are implemented:
 
@@ -30,8 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/VEITBfC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MqWwyE0" data-context="false" ><a href="//imgur.com/a/MqWwyE0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='./rec.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Adobe
